@@ -1,6 +1,6 @@
 /*
 # Haruka - UserBot
-# Copyright (C) 2022 Haruka-Bot Created By ZeeoneOfc
+# Copyright (C) Haruka Bot For #yd
 #
 # This file is a part of < https://github.com/zeeone-ofc/Haruka/ >
 # PLease read the GNU Affero General Public License in
