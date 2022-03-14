@@ -7,7 +7,7 @@ global.anticall = false
 global.anti_delete = false
 
 // setting
-global.ownername ="ZeeoneOfc"
+global.ownername ="Haruka"
 global.ownernumber = "62887435047326"
 global.botname = "Haruka-Bot"
 global.thumbnail = fs.readFileSync("./settings/Haruka.jpg") //sesuaikan dengan nama foto
