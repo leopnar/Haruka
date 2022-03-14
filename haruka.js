@@ -36,7 +36,7 @@ const starts = async (haruka = new WAConnection()) => {
     	color: ['#ff9c00'],
     	align: 'center',
 		})
-	CFonts.say(`Bot WhatsApp Created By ZeeoneOfc`, {
+	CFonts.say(`Bot WhatsApp Created By Haruka`, {
 		font: 'console',
 		align: 'center',
 		gradient: ['red', 'magenta']
